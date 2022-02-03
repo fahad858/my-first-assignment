@@ -4,6 +4,7 @@ body{
 .flexible-container{
     display: flex;
 }
+
 .intro-div h1{
     font-family:'Times New Roman', Times, serif;
     font-size: 90px;
@@ -41,12 +42,50 @@ body{
 #scroll-para{
     padding-top: 40px;
 }
-.mission h1{
+.intro-section{
+    padding-bottom: 50px;
+}
+.my-mission-in-2022-section{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 90px;
+    font-size: 50px;
     text-align: center;
-    padding-top: ;
+    padding-bottom: 40px;
 
 }
 
-
+.MVG-header{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+}
+.MVG-para{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+.mission-box{
+    background-color: rgba(173, 216, 230, 0.3);
+    border-radius: 50px;
+    margin-left: 50px;
+} 
+.vision-box{
+    background-color: rgba(255, 182, 193, 0.3);
+    border-radius: 50px;
+}
+.goal-box{
+    background-color: rgba(144, 238, 144, 0.3);
+    border-radius: 50px;
+    margin-right: 50px;
+}
+.MVG-section{
+    padding-bottom: 50px;
+}
+.develop-image{
+    height: 40em;
+}
+.girls-image{
+    margin-top: 50px;
+    
+}
+.develop-section h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
